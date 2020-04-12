@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.signupactivity">
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="false"
+        android:icon="@drawable/download"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@drawable/download"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Add"></activity>
+        <activity android:name=".NewHostel" />
+        <activity android:name=".HostelA" />
+        <activity android:name=".AdminLogin" />
+        <activity android:name=".AdminRegistration" />
+        <activity android:name=".UserLogin" />
+        <activity android:name=".SavingProduct" />
+        <activity android:name=".SavingData" />
+        <activity android:name=".ForgotPassword" />
+        <activity android:name=".LActivity3" />
+        <activity android:name=".LActivity2" />
+        <activity android:name=".LActivity1" />
+        <activity android:name=".SActivity4" />
+        <activity android:name=".SActivity3" />
+        <activity android:name=".SActivity2" />
+        <activity android:name=".SActivity1" />
+        <activity android:name=".MActivity4" />
+        <activity android:name=".MActivity3" />
+        <activity android:name=".MActivity2" />
+        <activity android:name=".MActivity1" />
+        <activity android:name=".HActivity4" />
+        <activity android:name=".HActivity3" />
+        <activity android:name=".HActivity2" />
+        <activity android:name=".HActivity1" />
+        <activity android:name=".Mess" />
+        <activity android:name=".MActivity" />
+        <activity android:name=".MproductAdapter" />
+        <activity android:name=".MProduct" />
+        <activity android:name=".LProduct" />
+        <activity android:name=".LProductAdapter" />
+        <activity android:name=".LActivity" />
+        <activity android:name=".SProductAdapter" />
+        <activity android:name=".SProduct" />
+        <activity android:name=".SActivity" />
+        <activity android:name=".ProductAdapter" />
+        <activity android:name=".Product" />
+        <activity android:name=".HActivity" />
+        <activity android:name=".Stationary" />
+        <activity android:name=".Laundry" />
+        <activity android:name=".Hostel" />
+        <activity android:name=".SignupActivity" />
+        <activity android:name=".ProfileActivity" />
+        <activity android:name=".MainPage">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,129 @@
+<resources>
+    <string name="app_name">Hostelite Bee</string>
+    <string name="description_text">\n
+        <b>Address : </b>Bharati Vidyapeeth Deemed<br>\n University, Dhankawadi, Katraj, Pune\n</br>
+        <b>Contact : </b>9903451811\n
+        <b>Amenities : </b>Wi-fi, Laundary, Televison,<br>\n Security\n</br>
+        <b>Rooms : </b>Single, Double, Seater
+    </string>
+
+    <string name="description_text1">\n
+        <b>Address : </b>Bharati Vidyapeeth <br>\n Near Ganesh Mandir, Katraj, Pune\n</br>
+        <b>Contact : </b>7803461811\n
+        <b>Amenities : </b>Wi-fi, Laundary , Security\n
+        <b>Rooms : </b>Double, Triple
+    </string>
+
+    <string name="description_text2">\n
+        <b>Address : </b>Bharati Vidyapeeth Deemed<br>\n University, Dhankawadi, Katraj, Pune\n</br>
+        <b>Contact : </b>9344518110\n
+        <b>Amenities : </b>Wi-fi, Laundary, Televison,<br>\n A.C, Gym, Security\n</br>
+        <b>Rooms : </b>Single, Double
+    </string>
+
+    <string name="description_text3">\n
+        <b>Address : </b>GOKUL NAGAR <br>\n Katraj-Kondhwa Road Pune\n</br>
+        <b>Contact : </b>8863451811\n
+        <b>Amenities : </b>Wi-fi, Laundary, Televison,<br>\n Security\n</br>
+        <b>Rooms : </b>Double, Seater
+    </string>
+
+
+    <string name="description_text4">\n
+        <b>Address : </b>Bharati Vidyapeeth Medical<br>\n College, Satara Road, Pune\n</br>
+        <b>Contact : </b>9975766451\n
+        <b>Amenities : </b>Wi-fi, A.C, Security\n
+        <b>Rooms : </b>Single, Double
+    </string>
+
+    <string name="description_textM1">\n
+        <b>Address : </b>Behind Bharati Vidyapeeth <br>\n Dindayal Nagar,Katraj,Pune\n</br>
+        <b>Contact : </b>9875766451\n
+        <b>Cuisines : </b>Chinese,South Indian\n
+        <b>Home Delivery Available!</b>
+    </string>
+
+    <string name="description_textM2">\n
+        <b>Address : </b>Bharati Vidyapeeth Road,<br>\n Near Back Gate ,Katraj, Pune\n</br>
+        <b>Contact : </b>9875896451\n
+        <b>Cuisines : </b>-Non-Veg,Veg,Italian\n
+        <b>Online Order through Zomato</b>
+    </string>
+
+    <string name="description_textM3">\n
+        <b>Address : </b>Shriram Nagar,Dhankawadi<br>\n Katraj, Pune-411046\n</br>
+        <b>Contact : </b>7576645199\n
+        <b>Cuisines : </b>North Indian\n
+        <b>Tiffin Facility and home delivery</b>
+    </string>
+
+    <string name="description_textM4">\n
+        <b>Address : </b>Shop No 8, Rolls Mania <br>\n Near Katraj Dairy , Pune\n</br>
+        <b>Contact : </b>9975567451\n
+        <b>Cuisines :  </b>Indo-Chinies, Rolls\n
+        <b>On Swiggy!</b>
+    </string>
+
+    <string name="description_textM5">\n
+        <b>Address : </b>Near Shani Mandir <br>\n Trimurti Chowk, Katraj, Pune\n</br>
+        <b>Contact : </b>9684766451\n
+        <b>Cuisines :  </b>Rajasthani Dishes\n
+        <b>Home Delivery Available</b>
+    </string>
+
+    <string name="description_textS">\n
+        <b>Address : </b> Vaishnavi Vihar shop, <br>\n Behind BVP, Katraj, Pune\n</br>
+        <b>Contact : </b>8799876645\n
+        <b>OPENS : 9 A.M. \n CLOSES : 10 P.M. </b>
+
+    </string>
+
+    <string name="description_textS1">\n
+        <b>Address : </b> Bharati vihar S.No. 78, <br>\n Shri RamNagar,Katraj,Pune\n</br>
+        <b>Contact : </b>8475767451\n
+        <b>OPENS : 10 A.M. \n CLOSES : 10 P.M. </b>
+
+    </string>
+
+    <string name="description_textS2">\n
+        <b>Address : </b> Bharati Vihar S.No. 38, <br>\n Behind BVP,Katraj,Pune\n</br>
+        <b>Contact : </b>9875766451\n
+        <b>OPENS : 11 A.M. \n CLOSES : 11 P.M. </b>
+    </string>
+
+    <string name="description_textS3">\n
+        <b>Address : </b>Vaishnavi Vihar, <br>\n SukhSagar Nagar,Katraj,Pune\n</br>
+        <b>Contact : </b>8743766451\n
+        <b>OPENS : 8 A.M. \n CLOSES : 9 P.M. </b>
+    </string>
+
+    <string name="description_textS4">\n
+        <b>Address : </b>Near Ichhapurti Mandir, <br>\n Trimurti Chowk, Katraj,Pune\n</br>
+        <b>Contact : </b>9875756432\n
+        <b>OPENS : 10 A.M. \n CLOSES : 10 P.M. </b>
+    </string>
+
+    <string name="description_textl">\n
+        <b>Address : </b>Shivray Colony,<br>\n Ambegaon,Pune\n</br>
+        <b>Contact : </b>9875766451\n
+        <b>Ironing, Drycleaning facilities available</b>
+    </string>
+
+    <string name="description_textl1">\n
+        <b>Address :Bharati Vihar, S.no 64 </b>, <br>\n Behind BVP, Katraj,Pune\n</br>
+        <b>Contact : </b>9875766451\n
+        <b>Ironing facility available</b>
+    </string>
+
+    <string name="description_textl2">\n
+        <b>Address : Vaishnavi Vihar, Plot.No. 6,</b><br>\n Katraj,Pune\n</br>
+        <b>Contact : </b>09766796451\n
+        <b> Ironing, Drycleaning facility available</b>
+    </string>
+
+    <string name="description_textl3">\n
+        <b>Address :Near Shani Mandir, </b><br>\n Trimurti Chowk4,Katraj,Pune\n</br>
+        <b>Contact : </b>7856326451\n
+        <b> Ironing, Drycleaning facility available</b>
+    </string>
+</resources>
